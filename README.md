@@ -44,7 +44,7 @@ IntelliSQL/
 **Clone the Repository:**
 
 Bash
-eg: git clone https://github.com/Shaik-Mohammad-Ashfaq/IntelliSQL.git
+eg: git clone https://github.com/harsha140804/IntelliSQL.git
 cd IntelliSQL
 
 **Set up Environment:**
